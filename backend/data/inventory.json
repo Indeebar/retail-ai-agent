@@ -1,0 +1,506 @@
+{
+    "SKU_001": {
+        "online_warehouse": {
+            "quantity": 45,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 8,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 3,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 12,
+            "in_stock": true
+        }
+    },
+    "SKU_002": {
+        "online_warehouse": {
+            "quantity": 15,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 2,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 1,
+            "in_stock": true
+        }
+    },
+    "SKU_003": {
+        "online_warehouse": {
+            "quantity": 60,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 10,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 7,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 15,
+            "in_stock": true
+        }
+    },
+    "SKU_004": {
+        "online_warehouse": {
+            "quantity": 35,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 5,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 8,
+            "in_stock": true
+        }
+    },
+    "SKU_005": {
+        "online_warehouse": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 0,
+            "in_stock": false
+        }
+    },
+    "SKU_006": {
+        "online_warehouse": {
+            "quantity": 50,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 12,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 9,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 6,
+            "in_stock": true
+        }
+    },
+    "SKU_007": {
+        "online_warehouse": {
+            "quantity": 80,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 18,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 14,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 20,
+            "in_stock": true
+        }
+    },
+    "SKU_008": {
+        "online_warehouse": {
+            "quantity": 25,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 4,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 0,
+            "in_stock": false
+        }
+    },
+    "SKU_009": {
+        "online_warehouse": {
+            "quantity": 10,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 1,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 2,
+            "in_stock": true
+        }
+    },
+    "SKU_010": {
+        "online_warehouse": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 0,
+            "in_stock": false
+        }
+    },
+    "SKU_011": {
+        "online_warehouse": {
+            "quantity": 40,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 6,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 5,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 9,
+            "in_stock": true
+        }
+    },
+    "SKU_012": {
+        "online_warehouse": {
+            "quantity": 55,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 15,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 12,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 18,
+            "in_stock": true
+        }
+    },
+    "SKU_013": {
+        "online_warehouse": {
+            "quantity": 30,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 7,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 4,
+            "in_stock": true
+        }
+    },
+    "SKU_014": {
+        "online_warehouse": {
+            "quantity": 20,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 3,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 5,
+            "in_stock": true
+        }
+    },
+    "SKU_015": {
+        "online_warehouse": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 0,
+            "in_stock": false
+        }
+    },
+    "SKU_016": {
+        "online_warehouse": {
+            "quantity": 42,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 8,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 6,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 10,
+            "in_stock": true
+        }
+    },
+    "SKU_017": {
+        "online_warehouse": {
+            "quantity": 65,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 14,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 11,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 16,
+            "in_stock": true
+        }
+    },
+    "SKU_018": {
+        "online_warehouse": {
+            "quantity": 38,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 5,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 7,
+            "in_stock": true
+        }
+    },
+    "SKU_019": {
+        "online_warehouse": {
+            "quantity": 28,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 4,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 6,
+            "in_stock": true
+        }
+    },
+    "SKU_020": {
+        "online_warehouse": {
+            "quantity": 18,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 2,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 3,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 0,
+            "in_stock": false
+        }
+    },
+    "SKU_021": {
+        "online_warehouse": {
+            "quantity": 70,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 15,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 12,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 18,
+            "in_stock": true
+        }
+    },
+    "SKU_022": {
+        "online_warehouse": {
+            "quantity": 48,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 10,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 8,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 12,
+            "in_stock": true
+        }
+    },
+    "SKU_023": {
+        "online_warehouse": {
+            "quantity": 55,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_delhi": {
+            "quantity": 9,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 7,
+            "in_stock": true
+        }
+    },
+    "SKU_024": {
+        "online_warehouse": {
+            "quantity": 22,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 3,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 0,
+            "in_stock": false
+        },
+        "store_bangalore": {
+            "quantity": 4,
+            "in_stock": true
+        }
+    },
+    "SKU_025": {
+        "online_warehouse": {
+            "quantity": 32,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 5,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 4,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 6,
+            "in_stock": true
+        }
+    },
+    "SKU_026": {
+        "online_warehouse": {
+            "quantity": 40,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 8,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 6,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 10,
+            "in_stock": true
+        }
+    },
+    "SKU_027": {
+        "online_warehouse": {
+            "quantity": 75,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 20,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 15,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 18,
+            "in_stock": true
+        }
+    },
+    "SKU_028": {
+        "online_warehouse": {
+            "quantity": 50,
+            "in_stock": true
+        },
+        "store_mumbai": {
+            "quantity": 12,
+            "in_stock": true
+        },
+        "store_delhi": {
+            "quantity": 8,
+            "in_stock": true
+        },
+        "store_bangalore": {
+            "quantity": 14,
+            "in_stock": true
+        }
+    }
+}

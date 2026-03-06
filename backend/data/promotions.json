@@ -1,0 +1,115 @@
+{
+    "loyaltyEarnRates": {
+        "Bronze": 1.0,
+        "Silver": 1.5,
+        "Gold": 2.0
+    },
+    "tierDiscounts": {
+        "Bronze": 0,
+        "Silver": 0.05,
+        "Gold": 0.10
+    },
+    "couponCodes": [
+        {
+            "code": "WELCOME20",
+            "discountType": "percentage",
+            "discountValue": 0.20,
+            "minOrderValue": 1500,
+            "expiryDate": "2025-12-31",
+            "applicableCategories": [
+                "all"
+            ]
+        },
+        {
+            "code": "ETHNIC15",
+            "discountType": "percentage",
+            "discountValue": 0.15,
+            "minOrderValue": 3000,
+            "expiryDate": "2025-09-30",
+            "applicableCategories": [
+                "ethnic_wear"
+            ]
+        },
+        {
+            "code": "FLAT500",
+            "discountType": "flat",
+            "discountValue": 500,
+            "minOrderValue": 2500,
+            "expiryDate": "2025-11-15",
+            "applicableCategories": [
+                "western_wear",
+                "footwear"
+            ]
+        },
+        {
+            "code": "GOLD1000",
+            "discountType": "flat",
+            "discountValue": 1000,
+            "minOrderValue": 5000,
+            "expiryDate": "2025-12-31",
+            "applicableCategories": [
+                "all"
+            ]
+        }
+    ],
+    "seasonalCampaigns": [
+        {
+            "name": "Wedding Season Bonanza",
+            "discountType": "percentage",
+            "discountValue": 0.25,
+            "applicableCategories": [
+                "ethnic_wear"
+            ],
+            "startDate": "2025-10-01",
+            "endDate": "2025-12-15"
+        },
+        {
+            "name": "Summer Style Sale",
+            "discountType": "percentage",
+            "discountValue": 0.30,
+            "applicableCategories": [
+                "western_wear"
+            ],
+            "startDate": "2025-04-01",
+            "endDate": "2025-06-30"
+        },
+        {
+            "name": "Festive Accessories Fest",
+            "discountType": "percentage",
+            "discountValue": 0.20,
+            "applicableCategories": [
+                "accessories"
+            ],
+            "startDate": "2025-09-15",
+            "endDate": "2025-11-15"
+        }
+    ],
+    "bundleDeals": [
+        {
+            "name": "Kurta + Dupatta Combo",
+            "requiredCategories": [
+                "ethnic_wear",
+                "accessories"
+            ],
+            "discountValue": 0.15,
+            "discountType": "percentage"
+        },
+        {
+            "name": "Saree + Blouse Complete Set",
+            "requiredCategories": [
+                "ethnic_wear"
+            ],
+            "discountValue": 0.10,
+            "discountType": "percentage"
+        },
+        {
+            "name": "Shoes + Bag Power Pair",
+            "requiredCategories": [
+                "footwear",
+                "accessories"
+            ],
+            "discountValue": 0.12,
+            "discountType": "percentage"
+        }
+    ]
+}

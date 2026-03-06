@@ -1,0 +1,584 @@
+[
+    {
+        "id": "customer_001",
+        "name": "Aarav Sharma",
+        "age": 28,
+        "gender": "male",
+        "city": "Mumbai",
+        "loyaltyTier": "Gold",
+        "loyaltyPoints": 4200,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_001",
+                "date": "2024-11-15",
+                "amount": 8500
+            },
+            {
+                "sku_id": "SKU_011",
+                "date": "2024-10-02",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_018",
+                "date": "2024-09-20",
+                "amount": 2800
+            },
+            {
+                "sku_id": "SKU_025",
+                "date": "2024-08-10",
+                "amount": 4500
+            },
+            {
+                "sku_id": "SKU_005",
+                "date": "2024-07-05",
+                "amount": 6200
+            },
+            {
+                "sku_id": "SKU_022",
+                "date": "2024-06-18",
+                "amount": 1800
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "accessories"
+        ],
+        "devicePreference": "mobile",
+        "savedPaymentMethods": [
+            "upi",
+            "saved_card"
+        ]
+    },
+    {
+        "id": "customer_002",
+        "name": "Priya Iyer",
+        "age": 34,
+        "gender": "female",
+        "city": "Bangalore",
+        "loyaltyTier": "Gold",
+        "loyaltyPoints": 3850,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_002",
+                "date": "2024-12-01",
+                "amount": 12000
+            },
+            {
+                "sku_id": "SKU_003",
+                "date": "2024-11-10",
+                "amount": 9500
+            },
+            {
+                "sku_id": "SKU_019",
+                "date": "2024-10-05",
+                "amount": 1500
+            },
+            {
+                "sku_id": "SKU_026",
+                "date": "2024-09-12",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_012",
+                "date": "2024-08-22",
+                "amount": 4800
+            },
+            {
+                "sku_id": "SKU_007",
+                "date": "2024-07-30",
+                "amount": 2200
+            },
+            {
+                "sku_id": "SKU_015",
+                "date": "2024-06-15",
+                "amount": 5600
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "western_wear",
+            "footwear"
+        ],
+        "devicePreference": "web",
+        "savedPaymentMethods": [
+            "saved_card",
+            "upi",
+            "gift_card"
+        ]
+    },
+    {
+        "id": "customer_003",
+        "name": "Rohit Gupta",
+        "age": 45,
+        "gender": "male",
+        "city": "Delhi",
+        "loyaltyTier": "Silver",
+        "loyaltyPoints": 1450,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_006",
+                "date": "2024-11-20",
+                "amount": 7800
+            },
+            {
+                "sku_id": "SKU_020",
+                "date": "2024-10-15",
+                "amount": 2500
+            },
+            {
+                "sku_id": "SKU_009",
+                "date": "2024-09-01",
+                "amount": 4200
+            },
+            {
+                "sku_id": "SKU_023",
+                "date": "2024-08-05",
+                "amount": 1200
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "accessories"
+        ],
+        "devicePreference": "web",
+        "savedPaymentMethods": [
+            "saved_card"
+        ]
+    },
+    {
+        "id": "customer_004",
+        "name": "Ananya Deshmukh",
+        "age": 26,
+        "gender": "female",
+        "city": "Mumbai",
+        "loyaltyTier": "Bronze",
+        "loyaltyPoints": 320,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_013",
+                "date": "2024-12-10",
+                "amount": 2800
+            },
+            {
+                "sku_id": "SKU_016",
+                "date": "2024-11-25",
+                "amount": 1900
+            },
+            {
+                "sku_id": "SKU_027",
+                "date": "2024-10-30",
+                "amount": 3500
+            },
+            {
+                "sku_id": "SKU_004",
+                "date": "2024-09-18",
+                "amount": 5200
+            },
+            {
+                "sku_id": "SKU_021",
+                "date": "2024-08-12",
+                "amount": 950
+            }
+        ],
+        "preferredCategories": [
+            "western_wear",
+            "footwear"
+        ],
+        "devicePreference": "mobile",
+        "savedPaymentMethods": [
+            "upi"
+        ]
+    },
+    {
+        "id": "customer_005",
+        "name": "Vikram Reddy",
+        "age": 38,
+        "gender": "male",
+        "city": "Hyderabad",
+        "loyaltyTier": "Silver",
+        "loyaltyPoints": 980,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_008",
+                "date": "2024-11-05",
+                "amount": 6500
+            },
+            {
+                "sku_id": "SKU_014",
+                "date": "2024-10-20",
+                "amount": 3800
+            },
+            {
+                "sku_id": "SKU_024",
+                "date": "2024-09-15",
+                "amount": 2200
+            },
+            {
+                "sku_id": "SKU_010",
+                "date": "2024-08-28",
+                "amount": 4100
+            },
+            {
+                "sku_id": "SKU_017",
+                "date": "2024-07-10",
+                "amount": 1600
+            },
+            {
+                "sku_id": "SKU_002",
+                "date": "2024-06-22",
+                "amount": 12000
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "western_wear"
+        ],
+        "devicePreference": "mobile",
+        "savedPaymentMethods": [
+            "upi",
+            "saved_card"
+        ]
+    },
+    {
+        "id": "customer_006",
+        "name": "Sneha Chatterjee",
+        "age": 31,
+        "gender": "female",
+        "city": "Kolkata",
+        "loyaltyTier": "Gold",
+        "loyaltyPoints": 2750,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_001",
+                "date": "2024-12-05",
+                "amount": 8500
+            },
+            {
+                "sku_id": "SKU_019",
+                "date": "2024-11-18",
+                "amount": 1500
+            },
+            {
+                "sku_id": "SKU_003",
+                "date": "2024-10-08",
+                "amount": 9500
+            },
+            {
+                "sku_id": "SKU_028",
+                "date": "2024-09-25",
+                "amount": 2800
+            },
+            {
+                "sku_id": "SKU_011",
+                "date": "2024-08-15",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_022",
+                "date": "2024-07-20",
+                "amount": 1800
+            },
+            {
+                "sku_id": "SKU_015",
+                "date": "2024-06-10",
+                "amount": 5600
+            },
+            {
+                "sku_id": "SKU_007",
+                "date": "2024-05-02",
+                "amount": 2200
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "accessories",
+            "footwear"
+        ],
+        "devicePreference": "web",
+        "savedPaymentMethods": [
+            "saved_card",
+            "gift_card"
+        ]
+    },
+    {
+        "id": "customer_007",
+        "name": "Arjun Nair",
+        "age": 22,
+        "gender": "male",
+        "city": "Bangalore",
+        "loyaltyTier": "Bronze",
+        "loyaltyPoints": 150,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_014",
+                "date": "2024-11-28",
+                "amount": 3800
+            },
+            {
+                "sku_id": "SKU_016",
+                "date": "2024-10-12",
+                "amount": 1900
+            },
+            {
+                "sku_id": "SKU_025",
+                "date": "2024-09-05",
+                "amount": 4500
+            },
+            {
+                "sku_id": "SKU_013",
+                "date": "2024-08-20",
+                "amount": 2800
+            }
+        ],
+        "preferredCategories": [
+            "western_wear",
+            "footwear"
+        ],
+        "devicePreference": "mobile",
+        "savedPaymentMethods": [
+            "upi"
+        ]
+    },
+    {
+        "id": "customer_008",
+        "name": "Meera Joshi",
+        "age": 42,
+        "gender": "female",
+        "city": "Delhi",
+        "loyaltyTier": "Silver",
+        "loyaltyPoints": 1820,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_004",
+                "date": "2024-12-08",
+                "amount": 5200
+            },
+            {
+                "sku_id": "SKU_001",
+                "date": "2024-11-01",
+                "amount": 8500
+            },
+            {
+                "sku_id": "SKU_020",
+                "date": "2024-10-18",
+                "amount": 2500
+            },
+            {
+                "sku_id": "SKU_026",
+                "date": "2024-09-22",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_009",
+                "date": "2024-08-14",
+                "amount": 4200
+            },
+            {
+                "sku_id": "SKU_018",
+                "date": "2024-07-06",
+                "amount": 2800
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "accessories"
+        ],
+        "devicePreference": "kiosk",
+        "savedPaymentMethods": [
+            "saved_card",
+            "upi"
+        ]
+    },
+    {
+        "id": "customer_009",
+        "name": "Karthik Pillai",
+        "age": 29,
+        "gender": "male",
+        "city": "Hyderabad",
+        "loyaltyTier": "Bronze",
+        "loyaltyPoints": 480,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_012",
+                "date": "2024-11-12",
+                "amount": 4800
+            },
+            {
+                "sku_id": "SKU_017",
+                "date": "2024-10-25",
+                "amount": 1600
+            },
+            {
+                "sku_id": "SKU_027",
+                "date": "2024-09-08",
+                "amount": 3500
+            },
+            {
+                "sku_id": "SKU_006",
+                "date": "2024-08-30",
+                "amount": 7800
+            },
+            {
+                "sku_id": "SKU_021",
+                "date": "2024-07-15",
+                "amount": 950
+            }
+        ],
+        "preferredCategories": [
+            "western_wear",
+            "accessories"
+        ],
+        "devicePreference": "mobile",
+        "savedPaymentMethods": [
+            "upi",
+            "gift_card"
+        ]
+    },
+    {
+        "id": "customer_010",
+        "name": "Divya Kulkarni",
+        "age": 55,
+        "gender": "female",
+        "city": "Mumbai",
+        "loyaltyTier": "Silver",
+        "loyaltyPoints": 1100,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_002",
+                "date": "2024-12-15",
+                "amount": 12000
+            },
+            {
+                "sku_id": "SKU_005",
+                "date": "2024-11-08",
+                "amount": 6200
+            },
+            {
+                "sku_id": "SKU_023",
+                "date": "2024-10-02",
+                "amount": 1200
+            },
+            {
+                "sku_id": "SKU_010",
+                "date": "2024-09-14",
+                "amount": 4100
+            },
+            {
+                "sku_id": "SKU_019",
+                "date": "2024-08-26",
+                "amount": 1500
+            },
+            {
+                "sku_id": "SKU_028",
+                "date": "2024-07-12",
+                "amount": 2800
+            },
+            {
+                "sku_id": "SKU_015",
+                "date": "2024-06-05",
+                "amount": 5600
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "footwear",
+            "accessories"
+        ],
+        "devicePreference": "web",
+        "savedPaymentMethods": [
+            "saved_card"
+        ]
+    },
+    {
+        "id": "customer_011",
+        "name": "Sanjay Mehta",
+        "age": 36,
+        "gender": "male",
+        "city": "Kolkata",
+        "loyaltyTier": "Bronze",
+        "loyaltyPoints": 75,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_008",
+                "date": "2024-11-22",
+                "amount": 6500
+            },
+            {
+                "sku_id": "SKU_024",
+                "date": "2024-10-10",
+                "amount": 2200
+            },
+            {
+                "sku_id": "SKU_011",
+                "date": "2024-09-28",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_016",
+                "date": "2024-08-18",
+                "amount": 1900
+            }
+        ],
+        "preferredCategories": [
+            "western_wear",
+            "ethnic_wear"
+        ],
+        "devicePreference": "kiosk",
+        "savedPaymentMethods": [
+            "gift_card",
+            "upi"
+        ]
+    },
+    {
+        "id": "customer_012",
+        "name": "Ritu Banerjee",
+        "age": 48,
+        "gender": "female",
+        "city": "Delhi",
+        "loyaltyTier": "Bronze",
+        "loyaltyPoints": 210,
+        "purchaseHistory": [
+            {
+                "sku_id": "SKU_003",
+                "date": "2024-12-12",
+                "amount": 9500
+            },
+            {
+                "sku_id": "SKU_007",
+                "date": "2024-11-06",
+                "amount": 2200
+            },
+            {
+                "sku_id": "SKU_020",
+                "date": "2024-10-22",
+                "amount": 2500
+            },
+            {
+                "sku_id": "SKU_014",
+                "date": "2024-09-10",
+                "amount": 3800
+            },
+            {
+                "sku_id": "SKU_026",
+                "date": "2024-08-02",
+                "amount": 3200
+            },
+            {
+                "sku_id": "SKU_010",
+                "date": "2024-07-25",
+                "amount": 4100
+            }
+        ],
+        "preferredCategories": [
+            "ethnic_wear",
+            "western_wear",
+            "accessories"
+        ],
+        "devicePreference": "web",
+        "savedPaymentMethods": [
+            "saved_card",
+            "upi",
+            "gift_card"
+        ]
+    }
+]

@@ -1,0 +1,736 @@
+[
+    {
+        "id": "SKU_001",
+        "name": "Banarasi Silk Saree - Royal Blue",
+        "category": "ethnic_wear",
+        "subcategory": "saree",
+        "price": 8500,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Royal Blue",
+            "Gold",
+            "Maroon"
+        ],
+        "occasionTags": [
+            "wedding",
+            "festive",
+            "traditional"
+        ],
+        "description": "Handwoven from pure Banarasi silk with intricate zari work in real gold thread, this saree features a luxuriously heavy pallu with traditional motifs and a butter-soft drape that glides over every body type. The rich royal blue base is complemented by antique gold bootis woven throughout the body, with a contrasting maroon border featuring paisley and floral jaal patterns. Perfect for grand weddings, festive celebrations, and traditional ceremonies — its structured yet flowing silhouette flatters both petite and curvy figures beautifully.",
+        "rating": 4.8,
+        "imageUrl": "/images/products/SKU_001.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_002",
+        "name": "Embroidered Bridal Lehenga Set - Crimson",
+        "category": "ethnic_wear",
+        "subcategory": "lehenga",
+        "price": 15000,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Crimson Red",
+            "Deep Pink",
+            "Champagne Gold"
+        ],
+        "occasionTags": [
+            "wedding",
+            "festive",
+            "party"
+        ],
+        "description": "Crafted from premium raw silk with a velvet-finish cancan underlayer for volume, this bridal lehenga boasts over 15,000 hand-embroidered sequins, resham thread work, and dabka embellishments across the flared skirt and matching choli. The design features a sweetheart neckline blouse with sheer net sleeves, a heavily embroidered waistband that cinches beautifully, and a dupatta in soft net with four-sided scalloped zari border. Ideal for brides, sangeet nights, and reception ceremonies — the A-line flare with structured waistband flatters hourglass, pear, and straight body types equally.",
+        "rating": 4.9,
+        "imageUrl": "/images/products/SKU_002.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_003",
+        "name": "Chanderi Cotton Saree - Mint Green",
+        "category": "ethnic_wear",
+        "subcategory": "saree",
+        "price": 4800,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Mint Green",
+            "Ivory",
+            "Dusty Pink"
+        ],
+        "occasionTags": [
+            "casual",
+            "office",
+            "festive"
+        ],
+        "description": "Woven from lightweight Chanderi cotton-silk blend with a signature sheer texture and subtle golden checks, this saree offers breathable comfort with an elegant sheen that works from boardroom to evening gatherings. The mint green base features delicate temple-border motifs in antique zari along the pallu and a self-striped body pattern that adds visual depth without heaviness. Suited for daily office wear, casual pujas, and daytime festive events — the lightweight drape and soft fabric are especially comfortable for tall and athletic body types.",
+        "rating": 4.5,
+        "imageUrl": "/images/products/SKU_003.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_004",
+        "name": "Anarkali Kurta Set - Plum Purple",
+        "category": "ethnic_wear",
+        "subcategory": "kurta",
+        "price": 5200,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Plum Purple",
+            "Teal",
+            "Dusty Rose"
+        ],
+        "occasionTags": [
+            "festive",
+            "party",
+            "casual"
+        ],
+        "description": "Made from premium georgette with a crepe lining for structured fall, this floor-length Anarkali kurta features intricate gota patti work on the yoke, mirror detailing along the kalis, and delicate thread embroidery cascading down the front panel. The design includes a sweetheart neckline with keyhole back, three-quarter bell sleeves with lace trim, paired with matching churidar bottoms and a sheer dupatta with sequin-scattered borders. Versatile for festive dinners, Diwali parties, and family celebrations — the Anarkali silhouette with its flared panels is supremely flattering for apple and rectangular body shapes.",
+        "rating": 4.6,
+        "imageUrl": "/images/products/SKU_004.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_005",
+        "name": "Designer Sherwani - Ivory Gold",
+        "category": "ethnic_wear",
+        "subcategory": "sherwani",
+        "price": 12000,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Ivory Gold",
+            "Midnight Black",
+            "Royal Navy"
+        ],
+        "occasionTags": [
+            "wedding",
+            "traditional",
+            "festive"
+        ],
+        "description": "Tailored from jacquard brocade fabric with a raw silk inner lining, this sherwani features ornate Mughal-inspired embroidery with bullion wire, pearl accents, and crystal buttons running along a mandarin collar and asymmetric front closure. The structured shoulders, darted waist, and knee-length cut create a regal silhouette, complemented by hand-finished cuffs with matching threadwork and a coordinating silk pocket square. Designed for groom wear, baraat ceremonies, and formal traditional events — the tailored construction with built-in structure flatters lean, athletic, and broad-shouldered body types effortlessly.",
+        "rating": 4.7,
+        "imageUrl": "/images/products/SKU_005.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_006",
+        "name": "Salwar Suit Set - Emerald Green",
+        "category": "ethnic_wear",
+        "subcategory": "salwar_suit",
+        "price": 3800,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Emerald Green",
+            "Magenta",
+            "Mustard"
+        ],
+        "occasionTags": [
+            "casual",
+            "office",
+            "traditional"
+        ],
+        "description": "Stitched from breathable cotton cambric with Lucknowi chikankari hand-embroidery on the kurta front and sleeves, this salwar suit set includes a straight-cut kurta, comfortable palazzo pants in matching fabric, and a soft mulmul dupatta with block-printed borders. The kurta features a round neck with pintuck detailing, side slits for ease of movement, and three-quarter sleeves with embroidered cuffs that add a refined finishing touch. An everyday essential for office wear, casual outings, and relaxed traditional gatherings — the straight-cut silhouette with palazzo pants universally flatters all body types from petite to plus-size.",
+        "rating": 4.4,
+        "imageUrl": "/images/products/SKU_006.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_007",
+        "name": "Printed Kurta - Indigo Block Print",
+        "category": "ethnic_wear",
+        "subcategory": "kurta",
+        "price": 2200,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Indigo Blue",
+            "White",
+            "Rust Orange"
+        ],
+        "occasionTags": [
+            "casual",
+            "office"
+        ],
+        "description": "Crafted from 100% hand-spun khadi cotton with authentic Rajasthani block printing using natural vegetable dyes, this kurta features a mandarin collar, front button placket, and a relaxed straight-cut fit that gets softer and more comfortable with every wash. The all-over geometric and floral block print in deep indigo creates a distinctively artisanal look, with contrast ivory piping along the collar and sleeve hems for clean finishing. Best suited for casual Fridays at the office, weekend brunches, and everyday ethnic wear — the relaxed straight-cut design sits comfortably on all body types including broad-chested and athletic builds.",
+        "rating": 4.3,
+        "imageUrl": "/images/products/SKU_007.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_008",
+        "name": "Silk Blend Nehru Jacket - Charcoal",
+        "category": "ethnic_wear",
+        "subcategory": "kurta",
+        "price": 6500,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Charcoal Grey",
+            "Wine",
+            "Navy Blue"
+        ],
+        "occasionTags": [
+            "wedding",
+            "office",
+            "festive"
+        ],
+        "description": "Constructed from a premium silk-polyester blend with a subtle jacquard weave pattern, this Nehru jacket features a structured stand collar, welt pockets with decorative buttons, and a tailored slim-fit cut with princess seams for a sharp, defined silhouette. The charcoal grey fabric has a matte sheen that pairs exceptionally well over plain kurtas or even crisp white shirts, with antique brass buttons and a contrasting inner lining in paisley-printed satin. A power piece for wedding receptions, formal office events, and festive dinners — the structured tailoring with its V-line visual effect is particularly flattering for men with round or stocky builds.",
+        "rating": 4.6,
+        "imageUrl": "/images/products/SKU_008.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_009",
+        "name": "Kanjeevaram Silk Saree - Temple Gold",
+        "category": "ethnic_wear",
+        "subcategory": "saree",
+        "price": 14500,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Temple Gold",
+            "Deep Red",
+            "Forest Green"
+        ],
+        "occasionTags": [
+            "wedding",
+            "traditional",
+            "festive"
+        ],
+        "description": "Authentically handwoven by master weavers in pure Kanjeevaram mulberry silk with a distinctive contrast border technique, this saree weighs approximately 750 grams and features grand temple tower motifs, dancing peacock buttas, and a richly detailed pallu spanning nearly 24 inches of solid zari weaving. The lustrous temple gold body shimmers with each pleat, while the deep red border with interlocked weft adds structural contrast and ceremonial gravitas to the drape. Reserved for auspicious wedding ceremonies, temple visits, and milestone celebrations — the substantial weight and structured silk create a majestic drape that provides elegant coverage for all body shapes.",
+        "rating": 4.9,
+        "imageUrl": "/images/products/SKU_009.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_010",
+        "name": "Georgette Sharara Set - Rose Pink",
+        "category": "ethnic_wear",
+        "subcategory": "salwar_suit",
+        "price": 4100,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Rose Pink",
+            "Lavender",
+            "Sage Green"
+        ],
+        "occasionTags": [
+            "party",
+            "festive",
+            "wedding"
+        ],
+        "description": "Fashioned from flowing faux georgette with a satin crepe lining, this sharara set includes a short peplum kurta with scalloped hemline, wide-leg sharara pants with godets for dramatic flare, and a matching ruffled dupatta with sequin-studded edges. The kurta features extensive cross-stitch embroidery on the bodice, stone-studded neckline, and cold-shoulder cutout sleeves with cascading ruffle details that add a contemporary twist to this traditional silhouette. Made for sangeet ceremonies, engagement parties, and festive gatherings — the high-waisted peplum top with flared sharara beautifully accentuates hourglasss and pear-shaped figures while elongating petite frames.",
+        "rating": 4.5,
+        "imageUrl": "/images/products/SKU_010.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_011",
+        "name": "Midi Wrap Dress - Olive Green",
+        "category": "western_wear",
+        "subcategory": "dress",
+        "price": 3200,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Olive Green",
+            "Burgundy",
+            "Classic Black"
+        ],
+        "occasionTags": [
+            "office",
+            "casual",
+            "party"
+        ],
+        "description": "Cut from premium ponte roma fabric with 5% spandex stretch for all-day comfort and wrinkle resistance, this midi wrap dress features a flattering V-neckline, adjustable waist tie, and flutter sleeves that gently drape over the upper arms. The wrap construction creates a natural cinch at the waist with a tulip-hem skirt that falls gracefully below the knee, while the structured fabric holds its shape without clinging in the wrong places. A versatile staple for Monday meetings, after-work cocktails, and weekend date nights — the wrap style with its adjustable waist is universally celebrated as the most flattering dress silhouette for every body type.",
+        "rating": 4.4,
+        "imageUrl": "/images/products/SKU_011.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_012",
+        "name": "High-Rise Straight Leg Jeans - Dark Wash",
+        "category": "western_wear",
+        "subcategory": "jeans",
+        "price": 2800,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Dark Indigo",
+            "Black",
+            "Light Wash"
+        ],
+        "occasionTags": [
+            "casual",
+            "office"
+        ],
+        "description": "Made from heavyweight 12oz Japanese selvedge-style denim with 2% elastane for comfortable stretch recovery, these high-rise straight leg jeans feature a 10.5-inch front rise, classic five-pocket construction, and YKK zipper with branded rivets at all stress points. The dark indigo wash has a clean, undistressed finish with subtle whiskering at the hips and a tailored straight leg that sits cleanly from knee to ankle without bunching. An everyday wardrobe essential for casual outings and smart-casual office settings — the high-rise waistband provides excellent tummy control while the straight-leg cut elongates and balances both curvy and straight body shapes.",
+        "rating": 4.3,
+        "imageUrl": "/images/products/SKU_012.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_013",
+        "name": "Ruffle Sleeve Blouse - Blush Pink",
+        "category": "western_wear",
+        "subcategory": "top",
+        "price": 1800,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Blush Pink",
+            "White",
+            "Sky Blue",
+            "Coral"
+        ],
+        "occasionTags": [
+            "office",
+            "casual",
+            "party"
+        ],
+        "description": "Sewn from airy polyester chiffon with a detachable camisole lining for adjustable opacity, this blouse features cascading ruffle sleeves, a soft V-neck with single-button keyhole closure at the back, and a relaxed fit through the body with a curved hemline that looks polished both tucked and untucked. The blush pink shade has a subtle pearlescent shimmer under light, with French seam finishing on all interior edges for a clean, premium feel against the skin. Effortlessly transitions from corporate presentations to evening dinners and casual brunches — the ruffle sleeves add volume at the shoulders which beautifully balances wider hips, making it especially flattering for pear-shaped and petite body types.",
+        "rating": 4.2,
+        "imageUrl": "/images/products/SKU_013.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_014",
+        "name": "Tailored Linen Blazer - Oatmeal",
+        "category": "western_wear",
+        "subcategory": "blazer",
+        "price": 5500,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Oatmeal",
+            "Charcoal",
+            "Dusty Blue"
+        ],
+        "occasionTags": [
+            "office",
+            "casual",
+            "party"
+        ],
+        "description": "Tailored from European-grade pure linen with a breathable cotton-blend lining, this unstructured blazer features notch lapels, a single-button closure, functional flap pockets, and working surgeon cuffs — all hallmarks of premium construction without the stuffiness of traditional suiting. The relaxed oatmeal hue is accented by natural linen slub texture, contrast under-collar in chambray, and a half-canvas chest piece that gives subtle shape while allowing the fabric to breathe in Indian summers. A year-round essential for boardroom meetings, client presentations, and smart evening gatherings — the slightly oversized unstructured cut drapes cleanly over broad shoulders and athletic builds while adding presence to leaner frames.",
+        "rating": 4.5,
+        "imageUrl": "/images/products/SKU_014.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_015",
+        "name": "Pleated Maxi Skirt - Midnight Navy",
+        "category": "western_wear",
+        "subcategory": "dress",
+        "price": 2600,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Midnight Navy",
+            "Emerald",
+            "Burgundy"
+        ],
+        "occasionTags": [
+            "party",
+            "office",
+            "casual"
+        ],
+        "description": "Constructed from fluid satin-finish polyester with heat-set accordion pleats that hold their shape through multiple washes, this maxi skirt features an elasticated waistband with internal drawstring, a full ankle-length sweep, and a weightless drape that moves like liquid with every step. The midnight navy color has a rich depth with subtle light-catching sheen at the pleat edges, creating an elegant play of shadow and surface that elevates even a simple tucked-in tee. Stunning for cocktail evenings, creative office environments, and cultural events — the vertical pleating creates a powerful lengthening illusion that flatters petite figures, while the elastic waist comfortably accommodates curvy and plus-size body types.",
+        "rating": 4.4,
+        "imageUrl": "/images/products/SKU_015.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_016",
+        "name": "Cropped Denim Jacket - Light Blue",
+        "category": "western_wear",
+        "subcategory": "top",
+        "price": 3400,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Light Blue",
+            "Black",
+            "White"
+        ],
+        "occasionTags": [
+            "casual",
+            "party"
+        ],
+        "description": "Cut from medium-weight 10oz cotton denim with a soft enzyme wash for broken-in comfort from day one, this cropped jacket features a classic spread collar, dual breast pockets with brass snap closures, adjustable side tabs, and a raw-edge cropped hemline that sits at the natural waist. The light blue wash has artisanal fading at the collar, pockets, and seams with a single-button cuff and interior contrast striped lining for unexpected polish. A layering essential for casual weekend outings, music festivals, and breezy evening walks — the cropped length visually raises the waistline, making it incredibly flattering for petite frames and those with longer torsos looking to create balanced proportions.",
+        "rating": 4.1,
+        "imageUrl": "/images/products/SKU_016.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_017",
+        "name": "Ribbed Knit Turtleneck - Charcoal",
+        "category": "western_wear",
+        "subcategory": "top",
+        "price": 1600,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Charcoal",
+            "Cream",
+            "Forest Green",
+            "Rust"
+        ],
+        "occasionTags": [
+            "casual",
+            "office"
+        ],
+        "description": "Knitted from a blend of soft Merino wool and acrylic in a chunky 3x3 rib pattern for excellent stretch and shape retention, this turtleneck features a fold-over neck, fitted long sleeves with ribbed cuffs, and a slim-fit body that layers perfectly under blazers and coats. The charcoal grey has a heathered depth with natural tonal variation that hides minor imperfections, while the dense knit construction provides warmth without bulk — ideal for air-conditioned offices and cool-season evenings. A cold-weather wardrobe anchor for office layering, weekend cafe hopping, and minimalist everyday dressing — the vertical ribbing creates a visually slimming effect that elongates the torso on all body types.",
+        "rating": 4.0,
+        "imageUrl": "/images/products/SKU_017.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_018",
+        "name": "A-Line Cotton Dress - Sunflower Yellow",
+        "category": "western_wear",
+        "subcategory": "dress",
+        "price": 2800,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Sunflower Yellow",
+            "Coral",
+            "Powder Blue"
+        ],
+        "occasionTags": [
+            "casual",
+            "party"
+        ],
+        "description": "Tailored from crisp organic cotton poplin with a soft brushed interior for skin-friendly comfort, this A-line dress features a fitted bodice with princess seams, a square neckline, cap sleeves with turned-up hems, and a gently flared skirt with hidden side-seam pockets. The vibrant sunflower yellow is achieved through AZO-free dyes and colorfastness treatment, with contrast white topstitching along all seams and a functional back zipper with fabric-covered pull for a clean aesthetic. Made for summer outings, garden brunches, and cheerful casual occasions — the fitted bodice-to-flared-skirt ratio is the most universally flattering design for every body type, especially accentuating waistlines on apple and rectangular figures.",
+        "rating": 4.3,
+        "imageUrl": "/images/products/SKU_018.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_019",
+        "name": "Embroidered Potli Bag - Gold",
+        "category": "accessories",
+        "subcategory": "handbag",
+        "price": 1500,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Gold",
+            "Silver",
+            "Maroon"
+        ],
+        "occasionTags": [
+            "wedding",
+            "festive",
+            "party"
+        ],
+        "description": "Handcrafted from raw silk fabric with all-over aari embroidery using metallic threads, sequins, and pearl bead clusters, this traditional potli bag features a satin drawstring closure, a circular structured base lined with cardboard for shape, and a detachable wrist chain in antique gold-tone metal. The gold exterior is adorned with floral and paisley motifs in contrasting thread colors, with a tasseled drawstring end and inner pocket in satin for small essentials like lip color and cards. An essential companion for wedding ceremonies, festive gatherings, and evening celebrations — the compact drawstring design sits elegantly on the wrist and complements both sarees and lehengas regardless of personal style.",
+        "rating": 4.2,
+        "imageUrl": "/images/products/SKU_019.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_020",
+        "name": "Statement Kundan Necklace Set",
+        "category": "accessories",
+        "subcategory": "jewellery",
+        "price": 3500,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Gold with Green Stones",
+            "Gold with Red Stones",
+            "Silver with Blue Stones"
+        ],
+        "occasionTags": [
+            "wedding",
+            "festive",
+            "traditional"
+        ],
+        "description": "Assembled from high-grade brass with 22-karat gold plating and hand-set polki-style Kundan stones in emerald green, this necklace set includes a graduated choker with extending pendant, matching jhumka earrings, and an adjustable dori back-closure embellished with pearl drops and meenakari enamel work on the reverse side. The centerpiece features a carved floral motif surrounded by cascading stone drops in a crescent formation, with each Kundan stone individually hand-placed in lac settings following centuries-old Rajasthani techniques. Designed to anchor bridal looks, festive ensembles, and traditional ceremony outfits — the adjustable dori length and graduated design sit beautifully on all necklines from round to V-neck, complementing both full and slender neck types.",
+        "rating": 4.7,
+        "imageUrl": "/images/products/SKU_020.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_021",
+        "name": "Silk Printed Scarf - Paisley",
+        "category": "accessories",
+        "subcategory": "scarf",
+        "price": 950,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Teal Paisley",
+            "Rust Floral",
+            "Navy Abstract"
+        ],
+        "occasionTags": [
+            "casual",
+            "office"
+        ],
+        "description": "Digitally printed on 100% pure twill silk measuring 70x180cm with hand-rolled and hand-stitched edges, this scarf features an intricate all-over paisley pattern inspired by Kashmiri shawl art with over 12 colors in a single print run for exceptional depth and detail. The teal base is enriched with burnt orange, gold, and ivory paisley motifs arranged in a flowing diagonal pattern, with a subtle ombré gradient toward the edges that creates visual interest from every angle. A sophisticated accent for corporate blazers, casual kurtas, and weekend travel outfits — the generous 180cm length allows multiple styling options including neck wrap, head scarf, and bag accessory, suiting every personal style and frame size.",
+        "rating": 4.1,
+        "imageUrl": "/images/products/SKU_021.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_022",
+        "name": "Leather Reversible Belt - Tan/Black",
+        "category": "accessories",
+        "subcategory": "belt",
+        "price": 1800,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Tan/Black",
+            "Brown/Navy"
+        ],
+        "occasionTags": [
+            "office",
+            "casual"
+        ],
+        "description": "Crafted from full-grain buffalo leather with a vegetable-tanned finish on the tan side and a smooth polished finish on the black reverse, this reversible belt features a rotating pin buckle in brushed nickel that swivels 360 degrees for effortless color switching without removing the belt. The 35mm width is versatile enough for both formal trousers and casual jeans, with a feathered edge finish and five precisely spaced adjustment holes with reinforced brass eyelets. A two-in-one wardrobe staple for office dressing and weekend casuals — available in sizes S through XL with each size covering a 4-inch range, ensuring a comfortable fit for all waist types and body proportions.",
+        "rating": 4.3,
+        "imageUrl": "/images/products/SKU_022.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_023",
+        "name": "Woven Jute Tote Bag - Natural",
+        "category": "accessories",
+        "subcategory": "handbag",
+        "price": 1200,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Natural Beige",
+            "Black Trim",
+            "Navy Stripe"
+        ],
+        "occasionTags": [
+            "casual",
+            "office"
+        ],
+        "description": "Hand-woven from sustainably harvested Bengali jute fibers with reinforced leather strap handles and a magnetic snap closure, this spacious tote bag measures 14x12x5 inches with an interior zip pocket, two open slip pockets, and a sturdy flat base that allows the bag to stand upright on any surface. The natural beige body features geometric weave patterns with leather corner patches for durability, antique brass hardware, and a removable canvas inner pouch for organizing smaller items. An eco-conscious everyday carry for office commutes, farmers market visits, and casual weekend outings — the wide opening and structured shape make it easy to access contents, while the neutral color palette pairs effortlessly with any outfit or personal style.",
+        "rating": 4.0,
+        "imageUrl": "/images/products/SKU_023.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_024",
+        "name": "Crystal Drop Earrings - Rose Gold",
+        "category": "accessories",
+        "subcategory": "jewellery",
+        "price": 2200,
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Rose Gold",
+            "Silver",
+            "Gold"
+        ],
+        "occasionTags": [
+            "party",
+            "wedding",
+            "festive"
+        ],
+        "description": "Set in rose-gold plated sterling silver with cubic zirconia solitaires and cascading pear-shaped Swarovski crystal drops, these statement earrings feature a secure lever-back closure with silicone comfort pads and a total drop length of 55mm for dramatic yet wearable impact. The rose gold plating uses a PVD coating process for scratch resistance and lasting shine, with each crystal faceted in 12 cuts for maximum light refraction that catches every chandelier and camera flash. Perfect for cocktail parties, evening wedding receptions, and festive celebrations — the elongated drop design visually lengthens the neck and jawline, making them especially stunning on round and heart-shaped face types.",
+        "rating": 4.6,
+        "imageUrl": "/images/products/SKU_024.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_025",
+        "name": "Block Heel Sandals - Nude",
+        "category": "footwear",
+        "subcategory": "heels",
+        "price": 3200,
+        "sizes": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "colors": [
+            "Nude",
+            "Black",
+            "Metallic Gold"
+        ],
+        "occasionTags": [
+            "office",
+            "party",
+            "casual"
+        ],
+        "description": "Constructed with a genuine leather upper, memory foam-cushioned insole, and a sturdy 2.5-inch block heel with anti-slip rubber outsole, these sandals feature an open-toe design with a single wide strap across the toe box and an adjustable ankle strap with a gold-tone buckle for secure fit. The nude shade is carefully color-matched to complement medium-to-deep Indian skin tones, with clean topstitching, padded heel collar, and a flexible TPU sole that provides arch support without compromising on style. An all-day comfortable option for office wear, evening parties, and dressy casual outings — the block heel offers stability on all surfaces while the nude color creates an unbroken leg line that elongates shorter frames.",
+        "rating": 4.4,
+        "imageUrl": "/images/products/SKU_025.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_026",
+        "name": "Embroidered Juttis - Multicolor",
+        "category": "footwear",
+        "subcategory": "ethnic_footwear",
+        "price": 1800,
+        "sizes": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "colors": [
+            "Multicolor",
+            "Red Gold",
+            "Blue Silver"
+        ],
+        "occasionTags": [
+            "festive",
+            "wedding",
+            "traditional",
+            "casual"
+        ],
+        "description": "Handcrafted by artisans in Jodhpur from soft Rajasthani leather with hand-embroidered uppers featuring chain stitch, French knot, and mirror work in a vibrant multicolor palette of over eight thread shades, these traditional juttis have a cushioned cotton-lined interior and a flat flexible sole that molds to the foot shape after a few wears. The pointed-toe silhouette is adorned with a central medallion motif surrounded by floral threadwork, with a reinforced heel counter and metallic trim along the opening edge for durability and decorative finish. A versatile ethnic staple for festive celebrations, wedding functions, casual kurta pairings, and even with jeans — the flat flexible construction and roomy toe box provide comfortable all-day wear for all foot widths including wide feet.",
+        "rating": 4.5,
+        "imageUrl": "/images/products/SKU_026.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_027",
+        "name": "Canvas Sneakers - White",
+        "category": "footwear",
+        "subcategory": "sneakers",
+        "price": 2400,
+        "sizes": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "colors": [
+            "White",
+            "Off-White",
+            "Black",
+            "Navy"
+        ],
+        "occasionTags": [
+            "casual"
+        ],
+        "description": "Built on a vulcanized rubber sole with organic cotton canvas uppers and reinforced toe caps, these minimalist sneakers feature a classic low-top profile, cotton lace-up closure with metal eyelets, padded tongue and collar, and a removable orthopaedic-grade EVA insole with arch support that can be replaced with custom orthotics. The bright white colorway uses a stain-resistant nano-coating treatment, with a herringbone-tread outsole for superior grip, contrast stitching along the foxing tape, and a debossed brand logo on the heel counter. The ultimate casual versatile shoe for daily wear, college campuses, weekend outings, and travel — the clean low-profile design and neutral white colorway pair with literally everything from jeans and chinos to kurtas and casual dresses across all personal styles.",
+        "rating": 4.2,
+        "imageUrl": "/images/products/SKU_027.jpg",
+        "brand": "ABFRL"
+    },
+    {
+        "id": "SKU_028",
+        "name": "Kolhapuri Chappals - Brown",
+        "category": "footwear",
+        "subcategory": "ethnic_footwear",
+        "price": 1400,
+        "sizes": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "colors": [
+            "Tan Brown",
+            "Dark Brown",
+            "Natural"
+        ],
+        "occasionTags": [
+            "casual",
+            "traditional"
+        ],
+        "description": "Authentically handmade in Kolhapur from single-piece vegetable-tanned buffalo hide with hand-braided leather straps and a traditional T-strap design, these chappals feature a flat non-slip leather sole, open-toe construction, and a back strap with adjustable brass buckle — crafted using a centuries-old cobbling technique where the sole and upper are stitched together without adhesive. The tan brown leather develops a rich dark patina over time with regular wear, while the naturally shaped footbed with raised arch support provides barefoot-like comfort that improves as the leather conforms to individual foot contours. A timeless everyday essential for casual wear, traditional ethnic pairings, and relaxed outings — the open design with adjustable strap accommodates all foot shapes including wide and high-arched feet comfortably.",
+        "rating": 4.3,
+        "imageUrl": "/images/products/SKU_028.jpg",
+        "brand": "ABFRL"
+    }
+]
