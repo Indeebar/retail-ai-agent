@@ -1,0 +1,15 @@
+# Python
+backend/.env
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/chroma_db/
+
+# Node
+frontend/.env.local
+frontend/node_modules/
+frontend/.next/
+
+# General
+.DS_Store
+*.log
