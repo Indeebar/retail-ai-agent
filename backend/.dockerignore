@@ -1,0 +1,14 @@
+.env
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info
+.git
+.gitignore
+README.md
+chroma_db/
+.pytest_cache/
+*.log

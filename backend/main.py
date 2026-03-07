@@ -9,6 +9,7 @@ from api.routes.inventory import router as inventory_router
 from api.routes.payment import router as payment_router
 from api.routes.loyalty import router as loyalty_router
 from api.routes.fulfillment import router as fulfillment_router
+from api.routes.chat import router as chat_router
 from startup import run_startup
 
 logger = logging.getLogger(__name__)
@@ -16,7 +17,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI(
     title="Retail AI Agent API",
     description="Backend API for the Retail AI Agent — product search, inventory, payment, loyalty & fulfillment.",
-    version="0.4.0",
+    version="0.6.0",
 )
 
 # ── Middleware ────────────────────────────────────────────────────────────────
@@ -28,6 +29,7 @@ app.include_router(inventory_router, prefix="/inventory", tags=["Inventory"])
 app.include_router(payment_router, prefix="/payment", tags=["Payment"])
 app.include_router(loyalty_router, prefix="/loyalty", tags=["Loyalty"])
 app.include_router(fulfillment_router, prefix="/fulfillment", tags=["Fulfillment"])
+app.include_router(chat_router, prefix="/chat", tags=["Chat"])
 
 
 # ── Root & Health ────────────────────────────────────────────────────────────
