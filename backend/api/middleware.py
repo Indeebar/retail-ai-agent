@@ -15,7 +15,7 @@ def setup_middleware(app: FastAPI) -> None:
     allowed_origins = [
         "http://localhost:3000",
         "http://localhost:3001",
-        "https://*.vercel.app",
+        "https://*.vercel.app",  # Wildcard supported on Starlette ≥ 0.27.0
     ]
     frontend_url = os.getenv("FRONTEND_URL")
     if frontend_url:
